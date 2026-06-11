@@ -102,7 +102,7 @@ Use Live Server in VS Code.
 
 ## 📸 Preview
 
-Add screenshots here after deployment.
+<img width="1920" height="1027" alt="Image" src="https://github.com/user-attachments/assets/538bda71-6900-49c1-851f-17bd7545c92b" />
 
 ---
 
