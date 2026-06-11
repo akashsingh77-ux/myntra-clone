@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bc1d3e94-f4ef-4ecc-bcf9-bf11cde5eba6" /># 🛍️ Myntra Clone — Modern E-Commerce Front-End Experience
+ 🛍️ Myntra Clone — Modern E-Commerce Front-End Experience
 
 A responsive and feature-rich **Myntra-inspired shopping platform** built using **Vanilla JavaScript, HTML5, and CSS3**. This project recreates the real-world flow of modern e-commerce applications including product discovery, filtering, wishlist management, shopping cart operations, and dynamic UI rendering.
 
